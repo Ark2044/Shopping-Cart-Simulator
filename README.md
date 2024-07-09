@@ -38,8 +38,8 @@ This C++ project simulates a shopping cart for an online store. The store offers
 1. **Clone the Repository**
 
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Ark2044/Shopping-Cart-Simulator.git
+   cd Shopping-Cart=Simulator
    ```
 2. **Compile the Code**
 
